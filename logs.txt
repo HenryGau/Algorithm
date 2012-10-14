@@ -1,0 +1,14 @@
+=== Oct 7th 2012 
+Bitmask dynamic programming
+ROADS spoj
+LEM3 TRIP voj   http://vn.spoj.pl/problems/LEM3/
+WATER http://vn.spoj.pl/problems/WATER/
+
+QBSELECT
+TREESUM
+
+=== Oct 10th 2012 
+SPOJ PT07Z
+SPOJ NTTREE   http://vn.spoj.pl/problems/NTTREE/
+SPOJ MTREE    http://vn.spoj.pl/problems/MTREE/
+SPOJ CTREE
